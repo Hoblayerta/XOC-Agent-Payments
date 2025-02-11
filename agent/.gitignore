@@ -1,6 +1,6 @@
 *.ts
 !index.ts
-
+/characters
 .env
 *.env
 .env*
