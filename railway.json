@@ -4,7 +4,7 @@
     "nixpacksPlan": {
       "phases": {
         "install": {
-          "depends0n": ["setup"],
+          "dependsOn": ["setup"],
           "cmds": ["pnpm install --no-frozen-lockfile"]
         }
       }
