@@ -1,0 +1,13 @@
+{
+  "$schema": "https://railway.com/railway.schema.json",
+  "build": {
+    "nixpacksPlan": {
+      "phases": {
+        "install": {
+          "depends0n": ["setup"],
+          "cmds": ["pnpm install --no-frozen-lockfile"]
+        }
+      }
+    }
+  }
+}
