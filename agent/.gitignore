@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 *.ts
 !index.ts
 /characters
+=======
+>>>>>>> upstream/main
 .env
 *.env
 .env*
